@@ -1,0 +1,54 @@
+
+body{
+    background-image: url('./background4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+
+}
+
+h1 {
+    padding-top: 40px;
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    background-color: white;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    /* color: white; */
+}
+
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust to your preference */
+  }
+
+  /* Styles for the social icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: fixed; */
+    bottom: 20px; /* Adjust as needed */
+    top: 40px;
+    left: 0;
+    width: 100%;
+  }
+  
+  .social-icons a {
+    top: 4                                         vvvvv'0px;
+    margin: 0 10px; /* Adjust spacing between icons as needed */
+  }
+  
