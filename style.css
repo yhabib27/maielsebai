@@ -9,6 +9,10 @@ body{
 .container{
 
 }
+.card-img-top {
+            height: 400px; /* Adjust the height as needed */
+            object-fit: cover;
+        }
 
 h1 {
     padding-top: 40px;
