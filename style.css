@@ -23,7 +23,13 @@ h1 {
     padding-left: 40px;
     color: white;
 }
-
+h3 {
+    padding-top: 40px;
+    background-color: darkslategray;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    color: white;
+}
 
 .card {
     display: flex;
