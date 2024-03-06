@@ -1,33 +1,25 @@
 
 body{
-/*
-    background-image: url('./background4.jpg');
-*/
-    background-color: white;
+    /* background-image: url('./background4.jpg'); */
     background-size: cover;
+    background-color:darkslategray;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: black;
-}
+    color: white;
+  }
 
 .container{
 
 }
-/*
-.card-img-top {
-            height: 400px; /* Adjust the height as needed */
-            object-fit: cover;
-        }
-*/
 
 h1 {
     padding-top: 40px;
     /* font-family: "Dancing Script", cursive; */
-    font-size: 60px;
-    background-color: white;
+    font-size: 50px;
+    background-color: darkslategray;
     padding-bottom: 40px;
     padding-left: 40px;
-     color: black; 
+    color: white;
 }
 
 
