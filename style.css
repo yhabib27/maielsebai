@@ -3,10 +3,11 @@ body{
 /*
     background-image: url('./background4.jpg');
 */
-    background-color: beige;
+    background-color: dark grey;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    color: white;
 }
 
 .container{
@@ -26,7 +27,7 @@ h1 {
     background-color: white;
     padding-bottom: 40px;
     padding-left: 40px;
-    /* color: white; */
+     color: white; 
 }
 
 
