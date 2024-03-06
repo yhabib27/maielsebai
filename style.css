@@ -36,7 +36,9 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-
+.card-text{
+    padding-right: 40px;
+}
 
 .center {
     display: flex;
