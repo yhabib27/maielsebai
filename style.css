@@ -1,8 +1,8 @@
 
 body{
-<!--
+/*
     background-image: url('./background4.jpg');
--->
+*/
     background-color: beige;
     background-size: cover;
     background-repeat: no-repeat;
@@ -12,16 +12,16 @@ body{
 .container{
 
 }
-<!--
+/*
 .card-img-top {
             height: 400px; /* Adjust the height as needed */
             object-fit: cover;
         }
--->
+*/
 
 h1 {
     padding-top: 40px;
-    <!-- font-family: "Dancing Script", cursive; -->
+    /* font-family: "Dancing Script", cursive; */
     font-size: 50px;
     background-color: white;
     padding-bottom: 40px;
