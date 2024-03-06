@@ -21,7 +21,7 @@ body{
 
 h1 {
     padding-top: 40px;
-    font-family: "Dancing Script", cursive;
+    <!-- font-family: "Dancing Script", cursive; -->
     font-size: 50px;
     background-color: white;
     padding-bottom: 40px;
