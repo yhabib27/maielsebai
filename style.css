@@ -3,11 +3,11 @@ body{
 /*
     background-image: url('./background4.jpg');
 */
-    background-color: darkgrey;
+    background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white;
+    color: black;
 }
 
 .container{
@@ -23,11 +23,11 @@ body{
 h1 {
     padding-top: 40px;
     /* font-family: "Dancing Script", cursive; */
-    font-size: 50px;
+    font-size: 60px;
     background-color: white;
     padding-bottom: 40px;
     padding-left: 40px;
-     color: white; 
+     color: black; 
 }
 
 
