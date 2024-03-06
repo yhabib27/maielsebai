@@ -1,6 +1,9 @@
 
 body{
+<!--
     background-image: url('./background4.jpg');
+-->
+    background-color: beige;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
