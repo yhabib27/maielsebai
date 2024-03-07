@@ -63,11 +63,12 @@ h3{
   }
   
   .social-icons a {
-    top: 4                                         vvvvv'0px;
+    top: 4;                                         vvvvv'0px;
     margin: 0 10px; /* Adjust spacing between icons as needed */
   }
   
   .card-text {
     margin-right: 40px;
-
+    padding-top: 40px;
+    margin-top: 40px;
   }
