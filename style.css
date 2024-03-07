@@ -6,29 +6,34 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
   }
 
 .container{
-  padding-top: 40px;
-padding-bottom: 40px;
-    padding-left: 40px;
+
+  
 }
 
 h1 {
-    padding-top: 40px;
-    /* font-family: "Dancing Script", cursive; */
-    font-size: 50px;
-    background-color: darkslategray;
+    padding-top: 60px;
     padding-bottom: 40px;
+    /* font-family: "Dancing Script", cursive; */
+    font-size: 60px;
+    background-color: darkslategray;
     padding-left: 40px;
     color: white;
 }
-h3 {
-    padding-top: 40px;
-    background-color: darkslategray;
-    padding-bottom: 40px;
-    padding-left: 40px;
-    color: white;
+
+h3{
+  padding-top: 60px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  font-size: 30px;
+  background-color: darkslategray;
+  color: white;
+
 }
 
 .card {
@@ -36,9 +41,7 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-.card-text{
-    padding-right: 40px;
-}
+
 
 .center {
     display: flex;
@@ -64,3 +67,7 @@ h3 {
     margin: 0 10px; /* Adjust spacing between icons as needed */
   }
   
+  .card-text {
+    margin-right: 40px;
+
+  }
