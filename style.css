@@ -21,7 +21,7 @@ h1 {
     padding-bottom: 40px;
     /* font-family: "Dancing Script", cursive; */
     font-size: 60px;
-    background-color: darkslategray;
+    background-color: white;
     padding-left: 40px;
     color: black;
 }
@@ -31,7 +31,7 @@ h3{
   padding-bottom: 40px;
   padding-left: 40px;
   font-size: 30px;
-  background-color: darkslategray;
+  background-color: white;
   color: darkgrey;
 
 }
