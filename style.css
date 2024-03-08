@@ -2,10 +2,10 @@
 body{
     /* background-image: url('./background4.jpg'); */
     background-size: cover;
-    background-color:darkslategray;
+    background-color: white;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white;
+    color: black;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 40px;
@@ -23,7 +23,7 @@ h1 {
     font-size: 60px;
     background-color: darkslategray;
     padding-left: 40px;
-    color: white;
+    color: darkgrey;
 }
 
 h3{
@@ -32,7 +32,7 @@ h3{
   padding-left: 40px;
   font-size: 30px;
   background-color: darkslategray;
-  color: white;
+  color: darkgrey;
 
 }
 
