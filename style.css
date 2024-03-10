@@ -75,10 +75,12 @@ h3{
 
   .thumbnail {
     
-   .thumbnail {
-    width: 300px;
-    height: 300px;
-  
+    
+    width: auto;
+    height: auto;
+    max-width: 50%; /* Optional: Ensures the image doesn't exceed its container's width */
+    max-height: 50%; /* Optional: Ensures the image doesn't exceed its container's height */
+
 
     cursor: pointer;
 }
