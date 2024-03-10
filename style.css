@@ -73,16 +73,13 @@ h3{
     margin-top: 40px;
   }
 
-  .thumbnail {
+  
     
-    
-    width: auto;
-    height: auto;
-    max-width: 50%; /* Optional: Ensures the image doesn't exceed its container's width */
-    max-height: 50%; /* Optional: Ensures the image doesn't exceed its container's height */
-
-
+    .thumbnail {
+    width: 300px;
+    height: 300px;
     cursor: pointer;
+
 }
 
 /* Styling for modal */
