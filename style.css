@@ -1,6 +1,11 @@
 #about{
     background-color: #ffcad4;
 }
+
+.imgsize{
+    width: 50%;
+    height: auto;
+}
 body{
     /* background-image: url('./background4.jpg'); */
     background-size: cover;
